@@ -1,2 +1,0 @@
-# projekmunka
-Semmi
