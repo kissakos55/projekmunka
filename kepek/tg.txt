@@ -1,0 +1,17 @@
+
+TRELLO:::
+
+<div class="col-sm-6 col-lg-4"><iframe width="300" height="250" src="https://www.youtube.com/embed/jSMzo6bZGgU?si=yljHwXxNPVSgsGWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+    <div class="col-sm-6 col-lg-4"> <img src="kepek/trello.png" height="250" width="250" alt="Trello" title="Trello"></div>
+
+    <div class="col-sm-6 col-lg-4"><iframe width="300" height="250" src="https://www.youtube.com/embed/V74wf7jHPP4?si=nv0og3apsS7RJJfm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+  
+
+
+
+SCRUM::::::
+
+ <div class="col-sm-6 col-lg-4"><iframe width="300" height="250" src="https://www.youtube.com/embed/ujNCkeeWatw?si=cBqEGS_7NQNggq-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+    <div class="col-sm-6 col-lg-4"> <img src="kepek/scrum.png"  height="250" width="250" alt="Scrum" title="Scrum"></div>
+    <div class="col-sm-6 col-lg-4"><iframe width="300" height="250" src="https://www.youtube.com/embed/pLuxkfo9juM?si=JkXeWzSgWGVUZKMi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+      
