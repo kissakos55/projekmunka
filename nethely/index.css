@@ -1,0 +1,72 @@
+
+fakeimg {
+    height: 200px;
+    background: #eee;
+	}
+
+#h1
+{
+text-align: center
+}
+table
+{
+  padding-top: 6pt;
+}
+#container
+{
+  padding-top: 6pt;
+ 
+}
+.raw
+{ padding-left: 6pt;
+  padding-right: 6pt;
+  padding-top: 12pt;
+  padding-bottom: 6pt ; /*Fontos*/
+  
+}
+embed
+{
+  border-radius: 3% top;
+  border-radius: 3%;
+}
+hr
+{
+  padding-top: 12pt;
+  padding-bottom: 6pt
+  
+}
+.margo
+{
+  
+}
+.cimek
+{
+  
+  background-color: rgba(222, 184, 135, 0.562);
+  color: white;
+  width: 225pt;
+  text-align: center !important;
+  font-weight: bold !important;
+ 
+  
+}
+
+
+.video
+{
+  text-align: center !important;
+}
+article
+{
+  text-align: center;
+  background-color: gray;
+  padding-top: 40pt;
+  padding-bottom: 40pt;
+  background: linear-gradient(purple,gold) ;
+}
+
+
+	
+
+
+	
